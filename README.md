@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 estudando HTML,CSS e Javascript
-- 😄 Pronouns: Ele/dele
 
 <div align="center">
   <a href="https://github.com/Arthursaldanha01">
