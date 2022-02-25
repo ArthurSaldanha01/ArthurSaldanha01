@@ -26,4 +26,4 @@
   <a href="https://www.linkedin.com/in/arthur-saldanha-69b944179?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOBZyvVE3RdCacvbz94ovsg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![Snake animation](https://github.com/Arthursaldadanha01/ArthurSaldanha01/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ArthurSaldanha01/rafaballerini/blob/output/github-contribution-grid-snake.svg)
