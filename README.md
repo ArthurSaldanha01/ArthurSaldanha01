@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Arthur Saldanha 01 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 estudando HTML,CSS e Javascript
+- 🌱 estudando HTML, CSS e Javascript
 
 <div align="center">
   <a href="https://github.com/Arthursaldanha01">
