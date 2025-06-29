@@ -36,7 +36,7 @@
 
 ## 🧠 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (IF Baiano)** e **Engenharia de Software (Estácio)**, atuando como desenvolvedor full stack júnior. Trabalho com projetos reais utilizando **Angular + TypeScript**, **PHP com Laravel**, **Node.js com NestJS** e **C#/.NET**, além de soluções IoT com **Arduino e sensores ambientais**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (IF Baiano)** e **Engenharia de Software (Estácio)**, atuando como desenvolvedor full stack. Trabalho com projetos reais utilizando **Angular + TypeScript**, **PHP com Laravel**, **Node.js com NestJS** e **C#/.NET**, além de soluções IoT com **Arduino e sensores ambientais**.
 
 Meus projetos incluem:
 
