@@ -5,7 +5,6 @@
 📍 Catu, Bahia – Brasil  
 📧 **arthursaldanha17@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/arthur-saldanha-69b944179)  
-🔗 [GitHub](https://github.com/arthursaldanha)  
 📸 [Instagram](https://www.instagram.com/saldanharthur_)
 
 ---
