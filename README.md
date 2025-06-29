@@ -1,6 +1,6 @@
 # 👨‍💻 Arthur Saldanha
 
-🎯 **Fullstack Developer | Angular | TypeScript | PHP | C# | IoT**
+🎯 **Fullstack Developer | Angular | TypeScript | PHP | Laravel | Node.js | C# | IoT**
 
 📍 Catu, Bahia – Brasil  
 📧 **arthursaldanha17@gmail.com**  
@@ -20,10 +20,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### IoT & Hardware
@@ -32,23 +34,17 @@
 
 ---
 
-## 📚 Learning
-
-🎯 Atualmente estudando:
-- **Flutter** (Desenvolvimento Mobile)
-- **Azure** (Cloud Computing e DevOps)
-
----
-
 ## 🧠 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (IF Baiano)** e **Engenharia de Software (Estácio)**, atuando como desenvolvedor fullstack júnior. Trabalho com projetos reais que envolvem **Angular + TypeScript**, **PHP com Laravel**, e **C#/.NET**, além de aplicações IoT com **Arduino e sensores ambientais**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (IF Baiano)** e **Engenharia de Software (Estácio)**, atuando como desenvolvedor full stack júnior. Trabalho com projetos reais utilizando **Angular + TypeScript**, **PHP com Laravel**, **Node.js com NestJS** e **C#/.NET**, além de soluções IoT com **Arduino e sensores ambientais**.
 
 Meus projetos incluem:
+
 - 🛍️ **Vitrine Online** – catálogo digital com carrinho e integração ao WhatsApp  
 - 📇 **Conectaí** – cartão de visita digital com QR Code e Firebase  
 - 🐝 **Projeto Melissa** – sistema de monitoramento IoT para colmeias com Arduino + WebApp  
-- 🍽️ **Cardápio Online** – plataforma para restaurantes em Laravel
+- 💼 **Linktax** – sistema sob medida para gestão de serviços contábeis e tributários  
+- 🍽️ **Cardápio Online** – plataforma para restaurantes desenvolvida em Laravel
 
 ---
 
@@ -58,4 +54,4 @@ Se quiser trocar uma ideia, colaborar em projetos ou tirar dúvidas, me chama:
 
 📧 **arthursaldanha17@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/arthur-saldanha-69b944179)  
-📸 [Instagram](https://www.instagram.com/saldanharthur_)  
+📸 [Instagram](https://www.instagram.com/saldanharthur_)
